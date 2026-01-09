@@ -1,0 +1,10 @@
+^D:\DEV\NEBULA\NEBULA\VENDOR\OPENAL-SOFT\BUILD\CMAKEFILES\742B8D71E9C71E2BD92711C8C0E5475C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/dev/Nebula/Nebula/vendor/openal-soft -BD:/dev/Nebula/Nebula/vendor/openal-soft/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/dev/Nebula/Nebula/vendor/openal-soft/build/OpenAL.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

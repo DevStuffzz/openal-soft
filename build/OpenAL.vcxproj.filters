@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\auxeffectslot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\autowah.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\chorus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\compressor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\convolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\dedicated.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\distortion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\echo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\effects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\equalizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\fshifter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\modulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\null.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\pshifter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\reverb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\vmorpher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\error.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\event.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\extension.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\listener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\state.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\call.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\exception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\fx_slot_index.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\fx_slots.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\alc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\alu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\alconfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\context.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\device.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\autowah.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\chorus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\compressor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\convolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\dedicated.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\distortion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\echo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\equalizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\fshifter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\modulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\null.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\pshifter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\reverb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\vmorpher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\events.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\panning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\loopback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\null.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\wasapi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\dsound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\winmm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\wave.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\ambdec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\ambidefs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\bformatdec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\bs2b.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\bsinc_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\context.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\converter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\cpu_caps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\cubic_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\devformat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\device.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\effectslot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\except.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\filters\biquad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\filters\nfc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\filters\splitter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\fpu_ctrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\helpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\hrtf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\hrtf_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\hrtf_resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\logging.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mastering.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\storage_formats.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\uhjfilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\uiddefs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\voice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer\mixer_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer\mixer_sse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer\mixer_sse2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer\mixer_sse3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer\mixer_sse41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\auxeffectslot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\buffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\direct_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\effects\effects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\event.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\listener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\source.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\call.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\effect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\exception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\fx_slot_index.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\fx_slots.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\globals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\al\eax\x_ram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\alu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\alconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\device.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\effects\base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\events.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\export_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\inprogext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\loopback.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\null.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\wasapi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\dsound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\winmm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\alc\backends\wave.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\ambdec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\ambidefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\async_event.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\bformatdec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\bs2b.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\bsinc_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\bsinc_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\bufferline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\buffer_storage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\converter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\cpu_caps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\cubic_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\cubic_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\devformat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\device.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\effects\base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\effectslot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\except.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\filters\biquad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\filters\nfc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\filters\splitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\fmt_traits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\fpu_ctrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\front_stablizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\hrtf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\hrtf_loader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\hrtf_resource.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\logging.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mastering.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\resampler_limits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\storage_formats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\uhjfilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\voice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\voice_change.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer\hrtfbase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\core\mixer\hrtfdefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\include\AL\al.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\include\AL\alc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\include\AL\alext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\include\AL\efx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\dev\Nebula\Nebula\vendor\openal-soft\include\AL\efx-presets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\dev\Nebula\Nebula\vendor\openal-soft\build\CMakeFiles\db6343753b0337739c22eb4518a55e67\default_hrtf.txt.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\dev\Nebula\Nebula\vendor\openal-soft\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\dev\Nebula\Nebula\vendor\openal-soft\build\default_hrtf.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="D:\dev\Nebula\Nebula\vendor\openal-soft\build\fmt-11.2.0\alsoft.fmt.dir\$(Configuration)\format.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="D:\dev\Nebula\Nebula\vendor\openal-soft\build\fmt-11.2.0\alsoft.fmt.dir\$(Configuration)\os.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\resources\openal32.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2F7A4807-44C0-379A-B3B0-3891113B0A64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F6F76835-FE7F-3392-8326-9B0562491466}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{B0796B2C-8670-3820-A8F3-47D59886FDA2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6FAF6D7B-0002-3E10-A0AF-D84474E65AB6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

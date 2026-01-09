@@ -1,0 +1,24 @@
+^D:\DEV\NEBULA\NEBULA\VENDOR\OPENAL-SOFT\BUILD\CMAKEFILES\DB6343753B0337739C22EB4518A55E67\DEFAULT_HRTF.TXT.RULE
+setlocal
+cd D:\dev\Nebula\Nebula\vendor\openal-soft
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D "INPUT_FILE=D:/dev/Nebula/Nebula/vendor/openal-soft/hrtf/Default HRTF.mhr" -D OUTPUT_FILE=D:/dev/Nebula/Nebula/vendor/openal-soft/build/default_hrtf.txt -P D:/dev/Nebula/Nebula/vendor/openal-soft/cmake/bin2h.script.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DEV\NEBULA\NEBULA\VENDOR\OPENAL-SOFT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/dev/Nebula/Nebula/vendor/openal-soft -BD:/dev/Nebula/Nebula/vendor/openal-soft/build --check-stamp-file D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

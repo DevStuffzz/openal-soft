@@ -1,0 +1,15 @@
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/alsoft.build_version.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/openal.modules.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/alsoft.modules.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/alsoft.common.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/OpenAL.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/alsoft.excommon.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/clang-tidy-check.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/RUN_TESTS.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/INSTALL.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/ALL_BUILD.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/CMakeFiles/ZERO_CHECK.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/fmt-11.2.0/CMakeFiles/alsoft.fmt.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/fmt-11.2.0/CMakeFiles/RUN_TESTS.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/fmt-11.2.0/CMakeFiles/INSTALL.dir
+D:/dev/Nebula/Nebula/vendor/openal-soft/build/fmt-11.2.0/CMakeFiles/ALL_BUILD.dir

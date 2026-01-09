@@ -1,0 +1,10 @@
+^D:\DEV\NEBULA\NEBULA\VENDOR\OPENAL-SOFT\FMT-11.2.0\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/dev/Nebula/Nebula/vendor/openal-soft -BD:/dev/Nebula/Nebula/vendor/openal-soft/build --check-stamp-file D:/dev/Nebula/Nebula/vendor/openal-soft/build/fmt-11.2.0/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

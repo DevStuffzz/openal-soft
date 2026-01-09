@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\modules\alc.cppm">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\modules\al.cppm">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\modules\alstd.cppm">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\modules\efx.cppm">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\modules\alext.cppm">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\dev\Nebula\Nebula\vendor\openal-soft\modules\openal.cppm">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\dev\Nebula\Nebula\vendor\openal-soft\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6FAF6D7B-0002-3E10-A0AF-D84474E65AB6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

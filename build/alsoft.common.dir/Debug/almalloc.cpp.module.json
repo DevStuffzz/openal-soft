@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "alsoft.common.dir\\Debug\\almalloc.obj",
+            "outputs": [
+                "D:\\dev\\Nebula\\Nebula\\vendor\\openal-soft\\build\\Debug\\alsoft.common.pdb",
+                "alsoft.common.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

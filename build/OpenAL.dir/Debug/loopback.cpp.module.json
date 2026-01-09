@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "OpenAL.dir\\Debug\\loopback.obj",
+            "outputs": [
+                "D:\\dev\\Nebula\\Nebula\\vendor\\openal-soft\\build\\OpenAL.dir\\Debug\\vc143.pdb",
+                "OpenAL.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

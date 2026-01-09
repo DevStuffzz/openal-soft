@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCXXCompilerFlag.cmake
+D:/dev/Nebula/Nebula/vendor/openal-soft/fmt-11.2.0/CMakeLists.txt
+D:/dev/Nebula/Nebula/vendor/openal-soft/fmt-11.2.0/support/cmake/JoinPaths.cmake

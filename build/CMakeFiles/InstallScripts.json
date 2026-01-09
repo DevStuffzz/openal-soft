@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/dev/Nebula/Nebula/vendor/openal-soft/build/cmake_install.cmake",
+		"D:/dev/Nebula/Nebula/vendor/openal-soft/build/fmt-11.2.0/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
